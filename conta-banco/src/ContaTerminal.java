@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ContaTerminal {
 
   public static void main(String[] args) {
-    // criando o obejto scanner
+    // criando o objeto scanner
     Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
     System.out.println("Por favor, digite o número da Conta: ");
